@@ -73,9 +73,9 @@ Todos los integrantes pertenecemos al programa de **Ingeniería Industrial** de 
 **burbuja pets** es un sistema de consola desarrollado en Python que permite gestionar las Peticiones, Quejas, Reclamos y Sugerencias (PQRS) relacionadas con la atención veterinaria de perros y gatos en los campus de la Universidad de Antioquia, en apoyo al grupo estudiantil MEPEGA.
 
 ### ¿Por qué este nombre?
-- **[nombre]** → representa a
-- **[otra parte del nombre]** → hace referencia a.
-- Juntos, comunican cercanía, cuidado y profesionalismo.
+- **[Burbuja]** → hace referencia a un entorno seguro donde la salud, los derechos y bienestar de nuestros peluditos están completamente resguardados.
+- **[Pets]** → rinde homenaje a los compañeros incondicionales, reconociendo su valor emocional y garantizando que reciban una atención oportuna, integral  y de calidad. 
+- Juntos, comunican cercanía, protección y cuidado integral que recalca nuestro compromiso con la trasparencia y claridad en los procedimientos dados para beneficiar a nuestros peluditos.
 
 ----
 

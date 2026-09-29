@@ -64,7 +64,7 @@ Todos los integrantes pertenecemos al programa de **Ingeniería Industrial** de 
 **burbuja pets**
 
 ### Eslogan
-*"[agregar eslogan]"*
+*"[Protección y cuidado en lacada huella, el espacio seguro que nuestros peludos merecen]"*
 
 ### Logo
 ![Logo](images/logo.png)
